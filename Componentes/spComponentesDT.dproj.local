@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/14 10:30:45.000.924,=rtl.dcp</Transaction>
+    <Transaction>2021/03/14 10:31:11.000.403,D:\Projetos\Prova\Componentes\spComponentesDT.dproj=D:\Projetos\Package1.dproj</Transaction>
+    <Transaction>2021/03/14 10:31:16.000.012,=D:\Projetos\Prova\Componentes\Unit1.pas</Transaction>
+    <Transaction>2021/03/14 10:31:48.000.559,D:\Projetos\Prova\Componentes\uspComponentesRegistro.pas=D:\Projetos\Prova\Componentes\Unit1.pas</Transaction>
+    <Transaction>2021/03/14 10:33:00.000.520,=dbrtl.dcp</Transaction>
+    <Transaction>2021/03/14 10:33:00.000.529,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2021/03/14 10:33:00.000.525,=FireDAC.dcp</Transaction>
+    <Transaction>2021/03/14 10:33:00.000.532,=FireDACCommon.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
